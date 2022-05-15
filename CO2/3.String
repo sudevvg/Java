@@ -4,7 +4,7 @@ class Str {
     String word;
 }
 
-public class StringManipulation {
+public class String {
     public static void main(String[] args) {
 
         Str wor = new Str();
