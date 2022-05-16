@@ -66,3 +66,4 @@ public class figures{
           c.area();
  }
 }
+ 
